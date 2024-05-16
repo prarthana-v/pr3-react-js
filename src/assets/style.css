@@ -5,3 +5,19 @@
   height: 100%;
   object-fit: cover;
 }
+.body {
+  background-color: rgb(76, 73, 73);
+  height: 100vh;
+}
+.card:hover {
+  transform: translateY(-1%);
+}
+.card {
+  /* transition: all 0.1s ease-in-out; */
+}
+.image {
+  overflow: hidden;
+}
+.image img:hover {
+  transform: scale(1.05);
+}
