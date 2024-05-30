@@ -7,7 +7,7 @@
 }
 .body {
   background-color: rgb(76, 73, 73);
-  height: 100vh;
+  height: 100%;
 }
 .card:hover {
   transform: translateY(-1%);
